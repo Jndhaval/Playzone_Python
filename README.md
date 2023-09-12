@@ -1,6 +1,6 @@
 # Playzone
 
-[![GitHub license](https://img.shields.io/github/license/YourUsername/YourRepoName)](https://github.com/YourUsername/YourRepoName/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Jndhaval/Playzone_Python)](https://github.com/Jndhaval/Playzone_Python/blob/main/LICENSE)
 
 ## Description
 
