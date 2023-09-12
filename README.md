@@ -14,7 +14,11 @@ Games developed are:
 - ROCK PAPER SCISSORS
 
 
-## Game Screenshots or Demo
+## Demo
+
+https://github.com/Jndhaval/Playzone_Python/assets/61612894/7c07d7f7-3a42-4068-b1c3-177e5b08aa3a
+
+## Game Screenshots
 
 ![image](https://github.com/Jndhaval/Playzone_Python/assets/61612894/25be5a83-1b98-4f2c-aec8-b8245bcf32f0)
 ![image](https://github.com/Jndhaval/Playzone_Python/assets/61612894/17f03934-3f2e-49a4-a692-8f0f0170e109)
